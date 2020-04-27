@@ -1075,5 +1075,30 @@
         "github": "https://github.com/leopittelli"
       }
     ]
+  },
+  "Angular Chile": {
+    "id": 44,
+    "name": "Angular Chile",
+    "position": {
+      "lng": -70.669266,
+      "lat": -33.448891
+    },
+    "city": "Santiago, Chile",
+    "image": "assets/images/44.png",
+    "twitter": "https://twitter.com/angularChile",
+    "web": "https://github.com/ngChile",
+    "description": "Comunidad de desarrolladores de Angular en Chile",
+    "organizers": [
+      {
+        "name": "Nicolás Ávila",
+        "twitter": "https://twitter.com/nicoavila_a",
+        "github": "https://github.com/nicoavila"
+      },
+      {
+        "name": "Gonzalo Pincheira",
+        "twitter": "https://twitter.com/gpincheiraa",
+        "github": "https://github.com/gpincheiraa/"
+      }
+    ]
   }
 }
